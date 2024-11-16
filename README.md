@@ -77,4 +77,12 @@
 
  3. **Obtain API keys for OpenAI ChatGPT**
 
- 4. **Configure email settings for report delivery.
+ 4. **Configure email settings for report delivery.**
+
+
+## Usage
+
+1. **Run the UiPath workflow to gather user details and scrape flight data.**
+2. **Execute the Python script to analyze the data and generate visualizations.**
+3. **Send analyzed data to ChatGPT for additional insights.**
+4. **Review the emailed final report.**
