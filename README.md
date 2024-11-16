@@ -4,7 +4,7 @@
 
 ---
 
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.png)
 
 ## Features
 - Automated flight search and data scraping from **MakeMyTrip**.
