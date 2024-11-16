@@ -1,26 +1,3 @@
-### <b>Flight Buddy - Automated Flight Data Analysis and Personalized Travel Recommendations</b>
-
-Flight Buddy is an advanced Robotic Process Automation (RPA) tool designed to revolutionize flight booking and travel planning. Combining the power of UiPath, Python, and AI-driven insights, Flight Buddy simplifies the process of finding flights, analyzing travel data, and providing users with personalized travel recommendations.
-
-#### Features : 
-* Automated flight search and data scraping from MakeMyTrip.
-* Python-powered data analysis to identify the most economical and shortest flights.
-* Real-time visualization of key insights using Matplotlib.
-* Seamless integration with ChatGPT API for personalized travel details.
-* Comprehensive reports emailed directly to the user, including:
-  * Cheapest and fastest flights.
-  * Average fare per airline.
-  * Airport amenities like lounge access and restaurant options.
-
-#### Project Workflow:
-
-1. Collect User Details:
-  * Gather user information, including travel dates, destinations, and preferences via UiPath workflow.
-  
-2. Input Data into MakeMyTrip:
-  * Automate user detail entry on the MakeMyTrip website using UiPath Browser activities.
-  
-
 # Flight Buddy - Automated Flight Data Analysis and Personalized Travel Recommendations
 
 **Flight Buddy** is an advanced Robotic Process Automation (RPA) tool designed to revolutionize flight booking and travel planning. Combining the power of **UiPath**, **Python**, and **AI-driven insights**, Flight Buddy simplifies the process of finding flights, analyzing travel data, and providing users with personalized travel recommendations.
@@ -88,5 +65,16 @@ Flight Buddy is an advanced Robotic Process Automation (RPA) tool designed to re
 ## Installation and Setup
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/flight-buddy.git
+   git clone https://github.com/Sushmit1/flight-buddy.git
    cd flight-buddy
+
+2. **Install required dependencies**:
+   * Install Python Libraries:
+     ```bash
+     pip install pandas matplotlib openai
+
+   * Setup UiPath and integrate workflows.
+
+ 3. **Obtain API keys for OpenAI ChatGPT**
+
+ 4. **Configure email settings for report delivery.
