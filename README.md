@@ -4,6 +4,8 @@
 
 ---
 
+![Dashboard](dashboard.jpg)
+
 ## Features
 - Automated flight search and data scraping from **MakeMyTrip**.
 - **Python-powered data analysis** to identify the most economical and shortest flights.
