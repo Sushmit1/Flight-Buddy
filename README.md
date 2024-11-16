@@ -1,2 +1,2 @@
-# Flight-Buddy
-An RPA project for flight booking and travel recommendations.
+### Flight Buddy - Automated Flight Data Analysis and Personalized Travel Recommendations
+
