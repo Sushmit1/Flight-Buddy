@@ -1,0 +1,98 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_User_Source&Sequence_1",
+        "str_User_Dest&Sequence_1",
+        "str_UserDate&Sequence_1",
+        "str_Email&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExtractDatafromWeb.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_25",
+        "ExtractDataTable&Sequence_21",
+        "str_Date_Selec&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Destination",
+        "in_Source",
+        "in_Date",
+        "in_Email"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "_temp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_Date_Selec&Sequence_1",
+        "str_Date&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Date",
+        "argument1",
+        "in_Source",
+        "in_Destination"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "visualization.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "viz.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test_python.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PythonObj_res&Sequence_2",
+        "result_pythonscript&Sequence_2",
+        "result_object&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "email_py"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "data_scraping.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
